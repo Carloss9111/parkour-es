@@ -36,5 +36,23 @@
     },
     "done": true
   },
+  "main:halfway": {
+    "criteria": {
+      "elytra": "2025-01-03 18:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-01-03 18:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-03 18:02:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

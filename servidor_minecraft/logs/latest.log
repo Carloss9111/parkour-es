@@ -107,3 +107,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18:00:41] [Server thread/INFO]: Naannoo was killed
 [18:02:06] [Server thread/INFO]: Naannoo was killed while fighting Cafssterr
 [18:03:24] [Server thread/INFO]: Cafssterr tried to swim in lava to escape Naannoo
+[18:07:57] [Server thread/INFO]: Cafssterr drowned while trying to escape Naannoo
+[18:08:00] [Server thread/INFO]: Naannoo was killed
+[18:08:04] [Server thread/WARN]: Naannoo moved wrongly!
+[18:08:10] [Server thread/INFO]: Cafssterr fell from a high place
+[18:08:10] [Server thread/WARN]: Naannoo moved wrongly!
+[18:08:21] [Server thread/WARN]: Naannoo moved wrongly!
+[18:08:24] [Server thread/INFO]: Naannoo was killed while fighting Cafssterr
+[18:09:43] [Server thread/INFO]: Cafssterr tried to swim in lava
+[18:10:18] [Server thread/WARN]: Cafssterr moved wrongly!
+[18:13:14] [Server thread/INFO]: Naannoo was killed
+[18:15:49] [Server thread/INFO]: Cafssterr tried to swim in lava
