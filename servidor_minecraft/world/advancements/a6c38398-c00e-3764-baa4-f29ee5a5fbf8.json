@@ -36,6 +36,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-01-03 18:28:17 +0000"
+    },
+    "done": true
+  },
   "main:halfway": {
     "criteria": {
       "elytra": "2025-01-03 18:13:02 +0000"
@@ -57,6 +63,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-01-03 18:02:06 +0000"
+    },
+    "done": true
+  },
+  "main:snowy_surprise": {
+    "criteria": {
+      "0": "2025-01-03 18:28:08 +0000"
     },
     "done": true
   },
