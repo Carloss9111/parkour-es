@@ -42,6 +42,12 @@
     },
     "done": true
   },
+  "main:tnt_trouble": {
+    "criteria": {
+      "0": "2025-01-03 18:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/honey_block_slide": {
     "criteria": {
       "honey_block_slide": "2025-01-03 18:10:05 +0000"
@@ -51,6 +57,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-01-03 18:02:06 +0000"
+    },
+    "done": true
+  },
+  "main:gold_dimension": {
+    "criteria": {
+      "0": "2025-01-03 18:17:18 +0000"
     },
     "done": true
   },
