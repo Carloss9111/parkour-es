@@ -1,0 +1,27 @@
+{
+    "parent": "main:easter_eggs/root",
+    "display": {
+        "title": {
+            "text": "A helping foot",
+            "color": "light_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "Help some turtles hatch using your feet!",
+            "color": "white",
+            "bold": false
+        },
+        "icon": {
+            "id": "minecraft:turtle_egg"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

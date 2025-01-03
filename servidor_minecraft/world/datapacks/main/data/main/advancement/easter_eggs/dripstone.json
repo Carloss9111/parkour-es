@@ -1,0 +1,27 @@
+{
+    "parent": "main:easter_eggs/parrot",
+    "display": {
+        "title": {
+            "text": "Critical Caving",
+            "color": "light_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "Run through the dripstone cave while it's raining rocks!",
+            "color": "white",
+            "bold": false
+        },
+        "icon": {
+            "id": "minecraft:pointed_dripstone"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

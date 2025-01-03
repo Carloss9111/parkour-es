@@ -1,0 +1,27 @@
+{
+    "parent": "main:easter_eggs/larry",
+    "display": {
+        "title": {
+            "text": "Creeping Creeper",
+            "color": "light_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "What a creep.",
+            "color": "white",
+            "bold": false
+        },
+        "icon": {
+            "id": "minecraft:creeper_head"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

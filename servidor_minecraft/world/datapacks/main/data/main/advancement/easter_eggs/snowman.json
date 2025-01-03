@@ -1,0 +1,27 @@
+{
+    "parent": "main:easter_eggs/turtle",
+    "display": {
+        "title": {
+            "text": "Hidden snowman",
+            "color": "light_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "Find a hidden snowman behind some powder snow!",
+            "color": "white",
+            "bold": false
+        },
+        "icon": {
+            "id": "minecraft:carrot"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

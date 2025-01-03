@@ -1,0 +1,19 @@
+{
+    "parent": "main:root",
+    "display": {
+        "title": {"text":"A long climb awaits...","color":"yellow","bold":true},
+        "description": {"text":"Start Parkour Spiral 3","color":"white","bold":false},
+        "icon": {
+            "id": "minecraft:stone_stairs"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

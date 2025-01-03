@@ -1,0 +1,27 @@
+{
+    "parent": "main:easter_eggs/creeper",
+    "display": {
+        "title": {
+            "text": "Parrot Party",
+            "color": "light_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "Find the dancing parrots!",
+            "color": "white",
+            "bold": false
+        },
+        "icon": {
+            "id": "minecraft:music_disc_stal"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

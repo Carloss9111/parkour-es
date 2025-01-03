@@ -1,0 +1,19 @@
+{
+    "parent": "main:halfway",
+    "display": {
+        "title": {"text":"Gold Dimension","color":"yellow","bold":true},
+        "description": {"text":"Visit the Gold Dimension","color":"white","bold":false},
+        "icon": {
+            "id": "minecraft:gold_block"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden":true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

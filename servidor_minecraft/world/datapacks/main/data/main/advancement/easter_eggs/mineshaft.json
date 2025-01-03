@@ -1,0 +1,27 @@
+{
+    "parent": "main:easter_eggs/snowball",
+    "display": {
+        "title": {
+            "text": "Forgotten Mineshaft",
+            "color": "light_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "The place where villagers used to get emeralds...",
+            "color": "white",
+            "bold": false
+        },
+        "icon": {
+            "id": "minecraft:cobweb"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

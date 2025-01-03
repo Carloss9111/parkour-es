@@ -1,0 +1,27 @@
+{
+    "parent": "main:easter_eggs/snowman",
+    "display": {
+        "title": {
+            "text": "Hidden Portal",
+            "color": "light_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "This hidden portal will take you places!",
+            "color": "white",
+            "bold": false
+        },
+        "icon": {
+            "id": "minecraft:crying_obsidian"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

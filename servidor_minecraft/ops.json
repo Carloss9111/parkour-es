@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "50ecb098-f083-47c1-b01f-9c195e680a4f",
+    "name": "Stop",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "74ccd22b-956b-3a5f-9d14-af8760707151",
+    "name": "Cafssterr",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

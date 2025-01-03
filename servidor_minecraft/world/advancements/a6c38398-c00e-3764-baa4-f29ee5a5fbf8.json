@@ -1,0 +1,40 @@
+{
+  "main:root": {
+    "criteria": {
+      "root": "2025-01-03 02:14:57 +0000"
+    },
+    "done": true
+  },
+  "main:easter_eggs/root": {
+    "criteria": {
+      "root": "2025-01-03 02:14:57 +0000"
+    },
+    "done": true
+  },
+  "time:root": {
+    "criteria": {
+      "root": "2025-01-03 02:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2025-01-03 02:18:25 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-03 02:14:58 +0000"
+    },
+    "done": false
+  },
+  "main:start": {
+    "criteria": {
+      "root": "2025-01-03 02:15:32 +0000"
+    },
+    "done": true
+  },
+  "main:lava_walker": {
+    "criteria": {
+      "0": "2025-01-03 02:31:41 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}

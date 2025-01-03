@@ -1,0 +1,4 @@
+#summon with passenger otherwise you can get in
+execute if predicate main:tnt_chance run summon minecart -16 160 78 {Tags:["tnt_minecart"],Invulnerable:1b,CustomDisplayTile:1b,DisplayOffset:6,Passengers:[{id:"minecraft:marker",CustomName:"minecart_marker"}],DisplayState:{Name:"minecraft:tnt",Properties:{unstable:"false"}}}
+execute if predicate main:tnt_chance run summon minecart -16 160 77 {Tags:["tnt_minecart"],Invulnerable:1b,CustomDisplayTile:1b,DisplayOffset:6,Passengers:[{id:"minecraft:marker",CustomName:"minecart_marker"}],DisplayState:{Name:"minecraft:tnt",Properties:{unstable:"false"}}}
+execute if predicate main:tnt_chance run summon minecart -16 160 76 {Tags:["tnt_minecart"],Invulnerable:1b,CustomDisplayTile:1b,DisplayOffset:6,Passengers:[{id:"minecraft:marker",CustomName:"minecart_marker"}],DisplayState:{Name:"minecraft:tnt",Properties:{unstable:"false"}}}

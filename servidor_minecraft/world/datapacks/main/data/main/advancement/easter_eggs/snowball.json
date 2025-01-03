@@ -1,0 +1,27 @@
+{
+    "parent": "main:easter_eggs/nether",
+    "display": {
+        "title": {
+            "text": "Snowball Saver",
+            "color": "light_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "Use your saved snowball to hit a target block, unlocking a secret path!",
+            "color": "white",
+            "bold": false
+        },
+        "icon": {
+            "id": "minecraft:snowball"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

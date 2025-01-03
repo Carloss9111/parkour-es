@@ -1,0 +1,19 @@
+{
+    "parent": "main:gold_dimension",
+    "display": {
+        "title": {"text":"TNT Trouble","color":"red","bold":true},
+        "description": {"text":"Be careful when handling TNT Minecarts...","color":"white","bold":false},
+        "icon": {
+            "id": "minecraft:tnt_minecart"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden":true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

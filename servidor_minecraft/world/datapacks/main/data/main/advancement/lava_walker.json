@@ -1,0 +1,20 @@
+{
+    "parent": "main:start",
+    "display": {
+        "title": {"text":"Lava walker","color":"gold","bold":true},
+        "description": {"text":"Use the netherite boots to walk on lava!","color":"white","bold":false},
+        "icon": {
+            "id": "minecraft:netherite_boots"
+           },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden":true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+        
+    }
+}
